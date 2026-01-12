@@ -13,6 +13,7 @@ I’ve built applications for:
 - **Mechanical Engineers** for detecting defects in furnace coils, pipelines and industrial plant infrastructure using ultrasound and 3D imaging thus improving safety and reducing downtime in critical energy systems.
 - **Medical Researchers** for detecting pneumonia, classifying its type, extracting lesions and quantifying disease severity—providing faster for more accurate insights for both clinical and research applications.
 - **Cartographers & Geospatial Analysts** for improving OpenStreetMap and interactive mapping tools, including editing-history viewers for moderators, custom map rendering, geospatial data processing and enhancing developer / user workflows, thus improving usability, efficiency and and data accuracy.
+- **Startups, agencies and product teams** for building high-performance web platforms, MVPs and customer-facing systems, including real-estate discovery platforms, e-commerce systems and digital agency products—focused on rapid validation, scalability, secure payments and data-driven UX.
 
 ---
 
@@ -48,6 +49,7 @@ Automated generation of interactive or static engineering reports using:
 - 3D-enabled PDF generation (embedded interactive models using U3D / PRC)
 - Microsoft InterOp for Word/Excel report automation
 - Web dashboards and HTML-based data visualizations
+- Full-stack web platforms for interactive data exploration, reporting and commercial delivery using React, Vue.js, Next.js, Nuxt.js and Tailwind CSS
 
 Focused on delivering actionable insights for engineering teams, field operators and decision makers.
 
